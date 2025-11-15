@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day1-collection/day1-collection.iml" filepath="$PROJECT_DIR$/day1-collection/day1-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-ai-max.iml" filepath="$PROJECT_DIR$/javase-ai-max.iml" />
+    </modules>
+  </component>
+</project>
